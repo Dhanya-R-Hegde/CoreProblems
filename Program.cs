@@ -14,6 +14,9 @@
             PowerOfTwo powerOfTwo = new PowerOfTwo(10);
             powerOfTwo.powerOfTwo();
 
+            HarmonicNumber harmonicNumber = new HarmonicNumber();
+            harmonicNumber.harmonicNum(149);
+
         }
     }
 }
