@@ -23,7 +23,8 @@
             SwapNumbers swapNumbers = new SwapNumbers(5, 10);
             swapNumbers.swapNum();
 
-
+            EvenOrOdd evenOrOdd = new EvenOrOdd();
+            evenOrOdd.evenOrOdd(10);
 
         }
     }
