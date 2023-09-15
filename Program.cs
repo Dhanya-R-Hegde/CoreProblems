@@ -26,6 +26,9 @@
             EvenOrOdd evenOrOdd = new EvenOrOdd();
             evenOrOdd.evenOrOdd(10);
 
+            VowelOrConsonent vowelOrConsonent = new VowelOrConsonent();
+            vowelOrConsonent.alphabet('A');
+
         }
     }
 }
