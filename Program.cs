@@ -20,6 +20,11 @@
             QuotientRemainder quotientRemainder = new QuotientRemainder();
             quotientRemainder.division(57, 35);
 
+            SwapNumbers swapNumbers = new SwapNumbers(5, 10);
+            swapNumbers.swapNum();
+
+
+
         }
     }
 }
