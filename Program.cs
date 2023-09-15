@@ -17,6 +17,9 @@
             HarmonicNumber harmonicNumber = new HarmonicNumber();
             harmonicNumber.harmonicNum(149);
 
+            QuotientRemainder quotientRemainder = new QuotientRemainder();
+            quotientRemainder.division(57, 35);
+
         }
     }
 }
